@@ -8,10 +8,10 @@ Simple Network Simulator (sim2net)
 :License: MIT License
 
 **Simple Network Simulator**  (**sim2net**) is a discrete event simulator of
-*mobile ad hoc networks* (MANETs) implemented in Python (version 2.7).  The
-simulator allows us to simulate networks of a given number of nodes that move
-according to the selected mobility model, run custom applications, and
-communicate only by sending application messages through wireless links.
+*mobile ad hoc networks* (MANETs) implemented in Python.  The simulator allows
+us to simulate networks of a given number of nodes that move according to the
+selected mobility model, run custom applications, and communicate only by
+sending application messages through wireless links.
 
 Installation
 ============
@@ -49,7 +49,7 @@ Step 2.  Run install:
 
 
 **The full documentation can be found on `readthedocs.org
-<https://sim2net.readthedocs.org/en/latest/>`_.***
+<https://sim2net.readthedocs.org/en/latest/>`_.**
 
 Copyright
 =========
