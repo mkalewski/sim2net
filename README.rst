@@ -47,11 +47,9 @@ Step 2.  Run install:
     $ sim2net -i .
     $ sim2net ./configuration.py ./application.py
 
-Links
-=====
-:Repository: https://github.com/mkalewski/sim2net
-:Bug reports: https://github.com/mkalewski/sim2net/issues
-:Documentation: https://sim2net.readthedocs.org/en/latest/
+
+**The full documentation can be found on `readthedocs.org
+<https://sim2net.readthedocs.org/en/latest/>`_.***
 
 Copyright
 =========
