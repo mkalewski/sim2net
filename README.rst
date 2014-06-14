@@ -48,8 +48,8 @@ Step 2.  Run install:
     $ sim2net ./configuration.py ./application.py
 
 
-**The full documentation can be found on `readthedocs.org
-<https://sim2net.readthedocs.org/en/latest/>`_.**
+**The full documentation can be found on**
+`readthedocs.org <https://sim2net.readthedocs.org/en/latest/>`_.
 
 Copyright
 =========
