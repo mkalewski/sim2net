@@ -180,6 +180,10 @@ class Crash(Failure):
               value in position :math:`i` indicates that the process on node
               number :math:`i` has failed.
 
+        *Returns*"
+            A `list` of nodes which processes failed at the current simulation
+            step.
+
         *Examples*:
 
         In order to avoid any process failures use this class with the
@@ -200,11 +204,13 @@ class Crash(Failure):
             >>> clock.tick()
             (0, 0.0)
             >>> crash.node_failure(failures)
+            []
             >>> print failures
             [False, False, False, False]
             >>> clock.tick()
             (1, 1.0)
             >>> crash.node_failure(failures)
+            []
             >>> print failures
             [False, False, False, False]
 
@@ -215,11 +221,13 @@ class Crash(Failure):
             >>> clock.tick()
             (0, 0.0)
             >>> crash.node_failure(failures)
+            []
             >>> print failures
             [False, False, False, False]
             >>> clock.tick()
             (1, 1.0)
             >>> crash.node_failure(failures)
+            []
             >>> print failures
             [False, False, False, False]
 
