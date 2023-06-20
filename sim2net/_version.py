@@ -44,7 +44,7 @@ __PROJECT_NAME = 'Simple Network Simulator'
 __PROJECT_SHORT_NAME = 'sim2net'
 
 #: The version number.
-__VERSION_NUMBER = '3.1.2'  # apply also to the README.rst and setup.py files
+__VERSION_NUMBER = '3.1.3'  # apply also to the README.rst and setup.py files
 
 
 def get_version():

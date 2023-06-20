@@ -3,7 +3,7 @@ Simple Network Simulator (sim2net)
 ==================================
 
 :Author:  Michał Kalewski
-:Version: 3.1.2
+:Version: 3.1.3
 :Documentation: http://sim2net.readthedocs.org/en/latest/
 :License: MIT License
 

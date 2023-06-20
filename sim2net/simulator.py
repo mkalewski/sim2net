@@ -15,7 +15,7 @@
 
 """
 This module provides an interface to the simulator for the :mod:`sim2net.cli`
-command-line tool and its main entry point for conducting simulations.
+command-line tool and it is the main entry point for conducting simulations.
 """
 
 
@@ -37,8 +37,8 @@ class Sim2Net(object):
     """
     This class is the main entry point for conducting simulations.
 
-    Based on the given simulation configuration and application file, the class
-    initializes and runs the simulation.
+    Based on the given simulation configuration and application files, the
+    class initializes and runs the simulation.
     """
 
     #:

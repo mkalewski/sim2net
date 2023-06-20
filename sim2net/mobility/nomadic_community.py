@@ -309,5 +309,4 @@ class NomadicCommunity(RandomWaypoint, Mobility):
                   ' current speed equal to %f'
             self.logger.debug(msg % (node_id, coordinates[0], coordinates[1],
                                      fabs(node_speed.current)))
-        print "%.30f    %.30f    %.30f    %.30f" % (coordinates[0], coordinates[1], self.__reference_point[0], self.__reference_point[1])
         return coordinates

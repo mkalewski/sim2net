@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='sim2net',
-    version='3.1.2',
+    version='3.1.3',
     author='Michal Kalewski  <mkalewski at cs.put.poznan.pl>',
     description='Simple Network Simulator (sim2net) is a discrete event '\
                 'simulator of mobile ad hoc networks (MANETs).',

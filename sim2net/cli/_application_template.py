@@ -18,7 +18,7 @@ from sim2net.application import Application
 
 class HelloWorld(Application):
     """
-    A "Hello World" example with two nodes: the node with ID equal 0 sends a
+    A "Hello World" example with two nodes: the node with ID equal to 0 sends a
     message that should be received and printed by the node with ID equal to 1.
     (See also the ``configuration.py`` file.)
 
